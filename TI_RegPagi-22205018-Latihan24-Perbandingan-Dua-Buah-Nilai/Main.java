@@ -39,7 +39,7 @@ public class Main {
 		     // Tampilkan
 		     System.out.println("Hasil : " + nilaiPertama + " lebih besar dari " + nilaiKedua);
 
-		 // Jika nilai kedua lebih kecil dari nilai pertama
+		 // Jika nilai pertama lebih kecil dari nilai kedua
 		 }else if(nilaiPertama < nilaiKedua) {
 
 		     // Tampilkan
