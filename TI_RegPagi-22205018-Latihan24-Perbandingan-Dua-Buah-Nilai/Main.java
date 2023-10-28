@@ -45,6 +45,11 @@ public class Main {
 		     // Tampilkan
 	    	     System.out.println("Hasil : " + nilaiPertama + " lebih kecil dari " + nilaiKedua);
 
+	         // Jika nilai pertama sama dengan nilai kedua
+		 }else if(nilaiPertama == nilaiKedua){
+
+		       // Tampilkan
+	    	     System.out.println(nilaiPertama + " sama dengan " + nilaiKedua);
 		 }
 		 
 		 // Tanya apakah pengguna mau mengulangi aktifitas
