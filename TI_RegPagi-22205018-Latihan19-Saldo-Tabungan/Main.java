@@ -37,7 +37,7 @@ public class Main {
             // Init format nilai ke desimal 
     	    NumberFormat formatter = new DecimalFormat("#,###");
 
-	    // Looping hasil	   
+	    // Looping	   
     	    for (int i = 1; i <= lamaBulan; i++) {
 
 		// Proses saldo
